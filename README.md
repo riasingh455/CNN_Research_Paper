@@ -2,7 +2,8 @@
 
 **Authors:** Ria Singh, Cooper Hawley, Daryon Roshanzaer, Anjali Dev  
 
-[**Full Project Report (PDF)**]([research_paper.pdf](https://github.com/riasingh455/cnn_research_paper/raw/main/Research_Paper_compressed.pdf))
+[Full Project Report (PDF)](https://github.com/riasingh455/cnn_research_paper/raw/main/Research_Paper_compressed.pdf)
+
 
 ## Overview
 This project implements a **LeNet-style Convolutional Neural Network (CNN) entirely from scratch** to classify handwritten digits from the MNIST dataset.  
