@@ -2,7 +2,7 @@
 
 **Authors:** Ria Singh, Cooper Hawley, Daryon Roshanzaer, Anjali Dev  
 
-[Collaborative Research Paper (PDF)](https://github.com/riasingh455/cnn_research_paper/raw/main/Research_Paper.pdf)
+[Collaborative Research Paper (PDF)](https://github.com/riasingh455/CNN_Research_Paper/raw/main/docs/Research_Paper.pdf)
 
 
 ## Overview
